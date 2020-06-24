@@ -28,7 +28,7 @@ public class JavafxApplication extends Application {
 
 
 		this.context = new SpringApplicationBuilder()
-				.sources(BootifulFxApplication.class)
+				.sources(BootfulFxApplication.class)
 				.initializers( initializer )
 				.run(getParameters().getRaw().toArray(new String[0]));
 	}
