@@ -19,8 +19,13 @@ the UI which can then be loaded by a JavaFx application.
 Scene Builder helps to enforce the MVC pattern, 
 keeping business logic out of the code that describes the UI.
 
-WYSIWYG = What you see is what you get
-UI = User InterFace
-MVC = Model View Controller
+
+## Words explained in human language.
+JavaFX = Java "special effects" FX<br/>
+Java = object oriented programming<br/>
+MVC = Model View Controller<br/>
+WYSIWYG = What you see is what you get<br/>
+UI = User InterFace<br/>
+
 
 Finally, MvvmFX is a framework for implementing the Model-View-ViewModel (MVVM) pattern in JavaFX. 
