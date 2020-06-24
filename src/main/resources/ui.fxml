@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+
+
+<VBox xmlns="http://javafx.com/javafx/8.0.121"
+      xmlns:fx="http://javafx.com/fxml/1"
+      fx:controller="com.jd.javafx.SimpleUiController"
+>
+
+      <Button fx:id="button" text="Button" />
+      <Label fx:id="label" text="Label" />
+
+</VBox>
