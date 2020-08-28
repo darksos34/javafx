@@ -1,9 +1,22 @@
+
+
 <?xml version="1.0" encoding="UTF-8"?>
 
 <?import javafx.scene.control.*?>
 <?import javafx.scene.layout.*?>
 
 
+
+<!--
+  ~ /*
+  ~  *
+  ~  *  * Coding for fun created by Darksos34.
+  ~  *  * Copyright (c) 2020.
+  ~  *  * All rights reserved by Jordy Hamwijk
+  ~  *  * Learning Computer Language.
+  ~  *
+  ~  */
+  -->
 
 <VBox xmlns="http://javafx.com/javafx/8.0.121"
       xmlns:fx="http://javafx.com/fxml/1"
