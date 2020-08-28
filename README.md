@@ -5,7 +5,7 @@ Contributors:
 Jordy Hamwijk (Junior Full Stack Developer)
 
 Created on: 24-6-2020<br/>
-Last updated on: 24-06-2020
+Last updated on: 28-08-2020
 
 ## Why Java fx?
 
@@ -29,3 +29,5 @@ UI = User InterFace<br/>
 
 
 Finally, MvvmFX is a framework for implementing the Model-View-ViewModel (MVVM) pattern in JavaFX. 
+
+
