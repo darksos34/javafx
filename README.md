@@ -2,7 +2,7 @@
 
 Contributors:
 
-Jordy Hamwijk (Junior Full Stack Developer)
+(Junior Full Stack Developer)
 
 Created on: 24-6-2020<br/>
 Last updated on: 28-08-2020
